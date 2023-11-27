@@ -131,7 +131,7 @@ SR FLIPFLOPS :
 
 JK FLIPFLOPS :
 
-![Exp3 jk wave](https://github.com/MohammedParvez129/Experiment--05-Implementation-of-flipflops-using-verilog/assets/143175737/c59d4727-59cc-4143-99f8-e3bcd44ac5bf)
+![Exp5 jkfp code](https://github.com/MohammedParvez129/Experiment--05-Implementation-of-flipflops-using-verilog/assets/143175737/7df328ae-0f17-40ee-bb32-025fe937d70f)
 
 D FLIPFLOPS :
 
