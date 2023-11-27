@@ -1,4 +1,4 @@
-![Exp5 tfp code](https://github.com/MohammedParvez129/Experiment--05-Implementation-of-flipflops-using-verilog/assets/143175737/d9544424-263f-4847-b0c2-3f6489c7d35d)# Experiment--05-Implementation-of-flipflops-using-verilog
+# Experiment--05-Implementation-of-flipflops-using-verilog
 ### AIM: To implement all the flipflops using verilog and validating their functionality using their functional tables
 ### HARDWARE REQUIRED:  – PC, Cyclone II , USB flasher
 ### SOFTWARE REQUIRED:   Quartus prime
