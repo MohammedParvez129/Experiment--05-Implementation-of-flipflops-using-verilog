@@ -1,4 +1,4 @@
-# Experiment--05-Implementation-of-flipflops-using-verilog
+![Exp5 tfp code](https://github.com/MohammedParvez129/Experiment--05-Implementation-of-flipflops-using-verilog/assets/143175737/d9544424-263f-4847-b0c2-3f6489c7d35d)# Experiment--05-Implementation-of-flipflops-using-verilog
 ### AIM: To implement all the flipflops using verilog and validating their functionality using their functional tables
 ### HARDWARE REQUIRED:  – PC, Cyclone II , USB flasher
 ### SOFTWARE REQUIRED:   Quartus prime
@@ -102,39 +102,81 @@ Q(t+1)=T′Q(t)+TQ(t)′
 ⇒Q(t+1)=T⊕Q(t)
 
 ### Procedure
-/* write all the steps invloved */
 
+STEP 1: Open Quartus II and select new project and choose the file location.
 
+STEP 2: Module Declaration. Module should have the file name.
+
+STEPS 3: Input-Output Delecaration.
+
+STEPS 4: Use assign declaration and wire to define the functionality of logic circuits.
+
+STEP 5: At the end give endmodule.
+
+STEP 6: Run the program and choose RTL viewer to get RTL realization
 
 ### PROGRAM 
-/*
+
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
 
+Developed by : MOHAMMED PARVEZ S
 
+Register Number : 23010483
 
+Code :
 
+SR FLIPFLOPS :
 
+![Exp5 srfp code](https://github.com/MohammedParvez129/Experiment--05-Implementation-of-flipflops-using-verilog/assets/143175737/7c3f402f-e982-4007-8eaa-cfef750b4c16)
 
-### RTL LOGIC FOR FLIPFLOPS 
+JK FLIPFLOPS :
 
+![Exp3 jk wave](https://github.com/MohammedParvez129/Experiment--05-Implementation-of-flipflops-using-verilog/assets/143175737/c59d4727-59cc-4143-99f8-e3bcd44ac5bf)
 
+D FLIPFLOPS :
 
+![Exp5 dfp code](https://github.com/MohammedParvez129/Experiment--05-Implementation-of-flipflops-using-verilog/assets/143175737/64a54a38-2726-4d9e-8bd8-2d98095b9971)
 
+T FLIPFLOPS :
 
+![Exp5 tfp code](https://github.com/MohammedParvez129/Experiment--05-Implementation-of-flipflops-using-verilog/assets/143175737/fbf5681c-8039-4c5c-8f38-be15638b348a)
 
+RTL realization :
 
+SR FLIPFLOPS :
 
+![Exp5 srfp RTL diagram](https://github.com/MohammedParvez129/Experiment--05-Implementation-of-flipflops-using-verilog/assets/143175737/a25d4bcb-06e8-4161-8999-a6f201e57cf1)
 
-### TIMING DIGRAMS FOR FLIP FLOPS 
+JK FLIPFLOPS :
 
+![Exp5 jkfp RTL diagram](https://github.com/MohammedParvez129/Experiment--05-Implementation-of-flipflops-using-verilog/assets/143175737/0ebb18db-76c2-49e6-a23b-84c1a82fbacf)
 
+D FLIPFLOPS :
 
+![Exp5 dfp RTL diagram](https://github.com/MohammedParvez129/Experiment--05-Implementation-of-flipflops-using-verilog/assets/143175737/13b96bba-c037-43f3-951b-ba4e34f3d55a)
 
+T FLIPFLOPS :
 
+![Exp5 tfp RTL diagram](https://github.com/MohammedParvez129/Experiment--05-Implementation-of-flipflops-using-verilog/assets/143175737/a89092b5-fe8f-48c1-8889-3bfc95eb0f41)
 
+### OUTPUT 
 
+SR FLIPFLOPS :
+
+![270270256-0303842f-9126-4668-abfe-6f51978c1804](https://github.com/MohammedParvez129/Experiment--05-Implementation-of-flipflops-using-verilog/assets/143175737/9238aa2e-e633-4a99-bdb0-44f61e2d2af5)
+
+JK FLIPFLOPS :
+
+![270270358-2ff0a5e4-0152-4158-a097-1e90c2a0ab3d](https://github.com/MohammedParvez129/Experiment--05-Implementation-of-flipflops-using-verilog/assets/143175737/7cdd9914-b84c-4816-9afb-8fb0139424d2)
+
+D FLIPFLOPS :
+
+![270270467-434e03a9-aeef-4932-ae3c-455e4a7d84ef](https://github.com/MohammedParvez129/Experiment--05-Implementation-of-flipflops-using-verilog/assets/143175737/1fd0980f-d40d-4818-b8cf-ef9d17082620)
+
+T FLIPFLOPS :
+
+![270270615-ed66aca2-0aa3-4b46-b65c-6eb7274f001c](https://github.com/MohammedParvez129/Experiment--05-Implementation-of-flipflops-using-verilog/assets/143175737/f7c4aeee-92ee-4c0d-aa09-53c64b87a83e)
 
 ### RESULTS 
+
+Implementation of flipflops using verilog successfully completed.
